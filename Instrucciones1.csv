@@ -5,3 +5,4 @@ Instrucciones:
 4) Unidad_lito es el buscador para el nombre del campo de Unidad Litoestratigrafica
 5) Edad es el buscador del codigo para el campo de Edad
 6) Abreviatura es el buscador del codigo para el campo de Abreviatura
+"7) En la busqueda no incluir tildes, ejemplo: Ancon"
