@@ -6,4 +6,4 @@ Instrucciones:
 5) Edad es el buscador del codigo para el campo de Edad
 6) Abreviatura es el buscador del codigo para el campo de Abreviatura
 "7) En la busqueda no incluir tildes, ejemplo: Ancon"
-"8) No incluir ""Ñ"" en busqueda y reemplarlo por ""N"""
+"8) No incluir letras especiales latinas en la busqueda, ejemplo: Ocana"
