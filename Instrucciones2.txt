@@ -1,7 +1,0 @@
-Instrucciones:
-1) La palabra a buscar siempre inicia con mayúscula, ejemplo: Flor
-2) Si se buscan con artículos, siempre iniciar con mayúscula el artículo y la palabra, ejemplo: La Flor
-3) Para imprimir toda la tabla, en el buscador borrar todo y presionar BUSCAR
-4) Unidad_lito es el buscador para el nombre del campo de Unidad Litoestratigrafica
-5) Edad es el buscador del codigo para el campo de Edad
-6) Abreviatura es el buscador del código para el campo de Abreviatura
