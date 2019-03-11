@@ -1,155 +1,154 @@
-Rango1	Unidad_lito1	Edad1	Abreviatura1	Rango2	Unidad_lito2	Edad2	Abreviatura2
 Grupo	 Alamor	K	A				
-Grupo	AncÛn	E	An	FormaciÛn	Seca	E	S
-Grupo	AncÛn	E	An	FormaciÛn	Socorro	E	Soc
-Grupo	AncÛn	E	An	FormaciÛn	Clay Pebble Beds	E	Cpb
-Grupo	 Angamarca 	PcE	Ag	FormaciÛn	 Rumi Cruz	E	Rc
-Grupo	 Angamarca 	PcE	Ag	FormaciÛn	 Unacota	E	U
-Grupo	 Angamarca 	PcE	Ag	FormaciÛn	 PilalÛ	PcE	P
-Grupo	 Angamarca 	PcE	Ag	FormaciÛn	 Gallo Rumi	PcE	Gr
-Grupo	 Angamarca 	PcE	Ag	FormaciÛn	 Apagua	PcE	A
-Grupo	Az˙car	Pc	Az				
+Grupo	Anc√≥n	E	An	Formaci√≥n	Seca	E	S
+Grupo	Anc√≥n	E	An	Formaci√≥n	Socorro	E	Soc
+Grupo	Anc√≥n	E	An	Formaci√≥n	Clay Pebble Beds	E	Cpb
+Grupo	 Angamarca 	PcE	Ag	Formaci√≥n	 Rumi Cruz	E	Rc
+Grupo	 Angamarca 	PcE	Ag	Formaci√≥n	 Unacota	E	U
+Grupo	 Angamarca 	PcE	Ag	Formaci√≥n	 Pilal√≥	PcE	P
+Grupo	 Angamarca 	PcE	Ag	Formaci√≥n	 Gallo Rumi	PcE	Gr
+Grupo	 Angamarca 	PcE	Ag	Formaci√≥n	 Apagua	PcE	A
+Grupo	Az√∫car	Pc	Az				
 Grupo	Daule	MPL	D				
-Grupo	Saraguro	EM	S	FormaciÛn	 Jubones	M	Sj
-Grupo	Saraguro	EM	S	FormaciÛn	 La Fortuna	O	Sf
-Grupo	Saraguro	EM	S	FormaciÛn	 Plancharumi	O	Sp
-Grupo	Saraguro	EM	S	FormaciÛn	 Soldados	O	Ss
-Grupo	Saraguro	EM	S	FormaciÛn	 Cerro Caucay	O	Scc
-Grupo	Saraguro	EM	S	FormaciÛn	 RÌo Blanco	O	Srb
-Grupo	Saraguro	EM	S	FormaciÛn	 Chanlud	O	Scd
-Grupo	Saraguro	EM	S	FormaciÛn	 Las Trancas	E	St
-Grupo	Saraguro	EM	S	FormaciÛn	 OcaÒa	E	So
-Grupo	 TahuÌn	Pz	T				
-Grupo	Zapotillo	K	Z	FormaciÛn	Chaquino	K	Ch
-Grupo	Zapotillo	K	Z	FormaciÛn	Mangahurco	K	Mg
-Grupo	Zapotillo	K	Z	FormaciÛn	Tronco Quemado	K	Tq
+Grupo	Saraguro	EM	S	Formaci√≥n	 Jubones	M	Sj
+Grupo	Saraguro	EM	S	Formaci√≥n	 La Fortuna	O	Sf
+Grupo	Saraguro	EM	S	Formaci√≥n	 Plancharumi	O	Sp
+Grupo	Saraguro	EM	S	Formaci√≥n	 Soldados	O	Ss
+Grupo	Saraguro	EM	S	Formaci√≥n	 Cerro Caucay	O	Scc
+Grupo	Saraguro	EM	S	Formaci√≥n	 R√≠o Blanco	O	Srb
+Grupo	Saraguro	EM	S	Formaci√≥n	 Chanlud	O	Scd
+Grupo	Saraguro	EM	S	Formaci√≥n	 Las Trancas	E	St
+Grupo	Saraguro	EM	S	Formaci√≥n	 Oca√±a	E	So
+Grupo	 Tahu√≠n	Pz	T				
+Grupo	Zapotillo	K	Z	Formaci√≥n	Chaquino	K	Ch
+Grupo	Zapotillo	K	Z	Formaci√≥n	Mangahurco	K	Mg
+Grupo	Zapotillo	K	Z	Formaci√≥n	Tronco Quemado	K	Tq
 Grupo	 Zumbagua	M	Z				
-FormaciÛn	Abanico	Pz?	A				
-FormaciÛn	AlausÌ	MPL	A				
-FormaciÛn	AmbuquÌ (Guamote)	J	Ga				
-FormaciÛn	Angostura	M	Ag				
-FormaciÛn	Apagua	PcE	A				
-FormaciÛn	Arajuno	M	A				
-FormaciÛn	Azogues	M	Az	Miembro	Cochas	M	C
-FormaciÛn	Azogues	M	Az	Miembro	Guap·n	M	G
-FormaciÛn	Azogues	M	Az	Miembro	El Carmen	M	Ec
-FormaciÛn	Baba	PLPl	B				
-FormaciÛn	Balzar	PL	B				
-FormaciÛn 	BelÈn	M	Be				
-FormaciÛn	Biblian	M	B				
-FormaciÛn	BorbÛn	MPL	Bb				
-FormaciÛn	Cangagua	Q	C				
-FormaciÛn	Canaveral	K	Cv				
-FormaciÛn	Catamayo	M	Ca				
-FormaciÛn	Cayo	K	Cy				
-FormaciÛn	Cazaderos	K	Cz				
-FormaciÛn	Celica	K	C				
-FormaciÛn	Cerro	E	C				
-FormaciÛn	Cerro Mandango	MPL	Cm				
-FormaciÛn	Chalcana	OM	Ch				
-FormaciÛn	Chambira	M	Ch				
-FormaciÛn	Chapiza	J	Ch				
-FormaciÛn	Chichi	Pl 	Ch				
-FormaciÛn	Chinchillo	M	Chi				
-FormaciÛn 	ChinchÌn	E	Ch				
-FormaciÛn	Chota	PL	Ch				
-FormaciÛn	Ciano	K	Cn				
-FormaciÛn	Cisar·n	M	Cn				
-FormaciÛn	Dos Bocas	OM	Db				
-FormaciÛn	El Consuelo	M	Ec				
-FormaciÛn	Gallo Rumi	PcE	Gr				
-FormaciÛn	Gonzanam·	M	Gz				
-FormaciÛn	Guayaquil	KPc	Gy				
-FormaciÛn	HollÌn	K	H				
-FormaciÛn	Iguincha	M	Ig				
-FormaciÛn	Javita	E	J				
-FormaciÛn	Las Delicias	EO	Ld				
-FormaciÛn	Las Masas	E	Lm				
-FormaciÛn	Latacunga	PL	L				
-FormaciÛn	Letrero	M	Lt				
-FormaciÛn	Loma Blanca	OM	Lb				
-FormaciÛn	Loma La Cruz	M	Llc				
-FormaciÛn	Loyola	M	L				
-FormaciÛn	Macuchi	PcE	M				
-FormaciÛn	Macuma	C	M				
-FormaciÛn	Mang·n	M	M				
-FormaciÛn	Mera	PL	M				
-FormaciÛn	Mesa	PL	Ms				
-FormaciÛn 	MisahuallÌ	J	M				
-FormaciÛn	Mora	OM	M				
-FormaciÛn	Moraspamba	MPL	M				
-FormaciÛn	Napo	K	N				
-FormaciÛn	Onzole 	M	Oz				
-FormaciÛn	Palmira	PL	Pa				
-FormaciÛn	Pambil	O	P				
-FormaciÛn	PeÒas Coloradas	PL	Pc				
-FormaciÛn	Pichilingue	Q	Pch				
-FormaciÛn	Picota	M	Pc				
-FormaciÛn	PilalÛ	PcE	P				
-FormaciÛn	PiÒÛn	JK	P				
-FormaciÛn	Pisayambo	PL	Py				
-FormaciÛn	Playa Rica	O 	Pr				
-FormaciÛn	Progreso	M	Pg				
-FormaciÛn 	Pumbuiza	Pz	P				
-FormaciÛn	Pun·	PLPl	Pu	Miembro	Lechuza	Pl	Lh
-FormaciÛn	Pun·	PLPl	Pu	Miembro	Placer 	PL	P
-FormaciÛn	Punta AncÛn	E	Pa				
-FormaciÛn	Punta Blanca	E	Pb				
-FormaciÛn	Punta Ostiones	E	Po				
-FormaciÛn	Puyango	K	Py				
-FormaciÛn	Quebrada Seca	M?	Qs				
-FormaciÛn	Quebrada Los Z·balos	K	Qz				
-FormaciÛn	Quillollaco	MPL	Q				
-FormaciÛn	Quimsacocha	PL	Q				
-FormaciÛn	Quinara	M	Qu				
-FormaciÛn	Quingeo	E	Q				
-FormaciÛn	RÌo Playas	E?	P				
-FormaciÛn 	Riobamba	Pl	R				
-FormaciÛn	Rumi Cruz	E	Rc				
-FormaciÛn	Salapa	PLPl	Sl				
-FormaciÛn	San Cayetano	M	Sc	Miembro	La Banda	M	Lbd
-FormaciÛn	San Eduardo	E	Se				
-FormaciÛn	San Francisco	M	Sfr				
-FormaciÛn	San JosÈ	M	Sjo				
-FormaciÛn	San Lorenzo	Pc	Sl				
-FormaciÛn	San Mateo	E	Sm				
-FormaciÛn	San Tadeo	PL?	St				
-FormaciÛn	Santa Isabel	M	Sa				
-FormaciÛn	Santiago	J	S				
-FormaciÛn	Santo Domingo	M	Sd				
-FormaciÛn 	Su·rez	J	Sz				
-FormaciÛn	Subibaja	M	Sb				
-FormaciÛn	Tablazo	Pl	T				
-FormaciÛn	Tambo Viejo† †	MPL	Tv				
-FormaciÛn	Tarqui	MPL	T	Miembro	Chaparro	M	Chp
-FormaciÛn	Tarqui	MPL	T	Miembro	Llacao	PL	Ll
-FormaciÛn	Tena	K	T				
-FormaciÛn	Tiyuyacu	PcE	T				
-FormaciÛn	Tosagua	OM	T				
-FormaciÛn	Trigal	M	Tr				
-FormaciÛn	Turi	M	Tu	Miembro	Nazon	M	Nz
-FormaciÛn	Turi	M	Tu	Miembro	Virgen de la Nube	M	Vn
-FormaciÛn	Turupamba	M	Tp				
-FormaciÛn	Uchucay	M	U				
-FormaciÛn	Unacota	E	U				
-FormaciÛn	Viche	M	V				
-FormaciÛn	Villingota	M	Vg				
-FormaciÛn	YaruquÌes	MPL?	Y				
-FormaciÛn	Yunguilla	K	Y				
-FormaciÛn 	Zambi	K	Z				
-FormaciÛn	Zapallo	E	Z				
-FormaciÛn	Zapotal	OM	Z				
-FormaciÛn	Zarapullo	Pl ?	Z				
+Formaci√≥n	Abanico	Pz?	A				
+Formaci√≥n	Alaus√≠	MPL	A				
+Formaci√≥n	Ambuqu√≠ (Guamote)	J	Ga				
+Formaci√≥n	Angostura	M	Ag				
+Formaci√≥n	Apagua	PcE	A				
+Formaci√≥n	Arajuno	M	A				
+Formaci√≥n	Azogues	M	Az	Miembro	Cochas	M	C
+Formaci√≥n	Azogues	M	Az	Miembro	Guap√°n	M	G
+Formaci√≥n	Azogues	M	Az	Miembro	El Carmen	M	Ec
+Formaci√≥n	Baba	PLPl	B				
+Formaci√≥n	Balzar	PL	B				
+Formaci√≥n 	Bel√©n	M	Be				
+Formaci√≥n	Biblian	M	B				
+Formaci√≥n	Borb√≥n	MPL	Bb				
+Formaci√≥n	Cangagua	Q	C				
+Formaci√≥n	Canaveral	K	Cv				
+Formaci√≥n	Catamayo	M	Ca				
+Formaci√≥n	Cayo	K	Cy				
+Formaci√≥n	Cazaderos	K	Cz				
+Formaci√≥n	Celica	K	C				
+Formaci√≥n	Cerro	E	C				
+Formaci√≥n	Cerro Mandango	MPL	Cm				
+Formaci√≥n	Chalcana	OM	Ch				
+Formaci√≥n	Chambira	M	Ch				
+Formaci√≥n	Chapiza	J	Ch				
+Formaci√≥n	Chichi	Pl 	Ch				
+Formaci√≥n	Chinchillo	M	Chi				
+Formaci√≥n 	Chinch√≠n	E	Ch				
+Formaci√≥n	Chota	PL	Ch				
+Formaci√≥n	Ciano	K	Cn				
+Formaci√≥n	Cisar√°n	M	Cn				
+Formaci√≥n	Dos Bocas	OM	Db				
+Formaci√≥n	El Consuelo	M	Ec				
+Formaci√≥n	Gallo Rumi	PcE	Gr				
+Formaci√≥n	Gonzanam√°	M	Gz				
+Formaci√≥n	Guayaquil	KPc	Gy				
+Formaci√≥n	Holl√≠n	K	H				
+Formaci√≥n	Iguincha	M	Ig				
+Formaci√≥n	Javita	E	J				
+Formaci√≥n	Las Delicias	EO	Ld				
+Formaci√≥n	Las Masas	E	Lm				
+Formaci√≥n	Latacunga	PL	L				
+Formaci√≥n	Letrero	M	Lt				
+Formaci√≥n	Loma Blanca	OM	Lb				
+Formaci√≥n	Loma La Cruz	M	Llc				
+Formaci√≥n	Loyola	M	L				
+Formaci√≥n	Macuchi	PcE	M				
+Formaci√≥n	Macuma	C	M				
+Formaci√≥n	Mang√°n	M	M				
+Formaci√≥n	Mera	PL	M				
+Formaci√≥n	Mesa	PL	Ms				
+Formaci√≥n 	Misahuall√≠	J	M				
+Formaci√≥n	Mora	OM	M				
+Formaci√≥n	Moraspamba	MPL	M				
+Formaci√≥n	Napo	K	N				
+Formaci√≥n	Onzole 	M	Oz				
+Formaci√≥n	Palmira	PL	Pa				
+Formaci√≥n	Pambil	O	P				
+Formaci√≥n	Pe√±as Coloradas	PL	Pc				
+Formaci√≥n	Pichilingue	Q	Pch				
+Formaci√≥n	Picota	M	Pc				
+Formaci√≥n	Pilal√≥	PcE	P				
+Formaci√≥n	Pi√±√≥n	JK	P				
+Formaci√≥n	Pisayambo	PL	Py				
+Formaci√≥n	Playa Rica	O 	Pr				
+Formaci√≥n	Progreso	M	Pg				
+Formaci√≥n 	Pumbuiza	Pz	P				
+Formaci√≥n	Pun√°	PLPl	Pu	Miembro	Lechuza	Pl	Lh
+Formaci√≥n	Pun√°	PLPl	Pu	Miembro	Placer 	PL	P
+Formaci√≥n	Punta Anc√≥n	E	Pa				
+Formaci√≥n	Punta Blanca	E	Pb				
+Formaci√≥n	Punta Ostiones	E	Po				
+Formaci√≥n	Puyango	K	Py				
+Formaci√≥n	Quebrada Seca	M?	Qs				
+Formaci√≥n	Quebrada Los Z√°balos	K	Qz				
+Formaci√≥n	Quillollaco	MPL	Q				
+Formaci√≥n	Quimsacocha	PL	Q				
+Formaci√≥n	Quinara	M	Qu				
+Formaci√≥n	Quingeo	E	Q				
+Formaci√≥n	R√≠o Playas	E?	P				
+Formaci√≥n 	Riobamba	Pl	R				
+Formaci√≥n	Rumi Cruz	E	Rc				
+Formaci√≥n	Salapa	PLPl	Sl				
+Formaci√≥n	San Cayetano	M	Sc	Miembro	La Banda	M	Lbd
+Formaci√≥n	San Eduardo	E	Se				
+Formaci√≥n	San Francisco	M	Sfr				
+Formaci√≥n	San Jos√©	M	Sjo				
+Formaci√≥n	San Lorenzo	Pc	Sl				
+Formaci√≥n	San Mateo	E	Sm				
+Formaci√≥n	San Tadeo	PL?	St				
+Formaci√≥n	Santa Isabel	M	Sa				
+Formaci√≥n	Santiago	J	S				
+Formaci√≥n	Santo Domingo	M	Sd				
+Formaci√≥n 	Su√°rez	J	Sz				
+Formaci√≥n	Subibaja	M	Sb				
+Formaci√≥n	Tablazo	Pl	T				
+Formaci√≥n	Tambo Viejo¬† ¬†	MPL	Tv				
+Formaci√≥n	Tarqui	MPL	T	Miembro	Chaparro	M	Chp
+Formaci√≥n	Tarqui	MPL	T	Miembro	Llacao	PL	Ll
+Formaci√≥n	Tena	K	T				
+Formaci√≥n	Tiyuyacu	PcE	T				
+Formaci√≥n	Tosagua	OM	T				
+Formaci√≥n	Trigal	M	Tr				
+Formaci√≥n	Turi	M	Tu	Miembro	Nazon	M	Nz
+Formaci√≥n	Turi	M	Tu	Miembro	Virgen de la Nube	M	Vn
+Formaci√≥n	Turupamba	M	Tp				
+Formaci√≥n	Uchucay	M	U				
+Formaci√≥n	Unacota	E	U				
+Formaci√≥n	Viche	M	V				
+Formaci√≥n	Villingota	M	Vg				
+Formaci√≥n	Yaruqu√≠es	MPL?	Y				
+Formaci√≥n	Yunguilla	K	Y				
+Formaci√≥n 	Zambi	K	Z				
+Formaci√≥n	Zapallo	E	Z				
+Formaci√≥n	Zapotal	OM	Z				
+Formaci√≥n	Zarapullo	Pl ?	Z				
 Complejo	Granitoide Moromoro	Tr	M	Granodiorita El Prado	Tr	Mp	
 Complejo	Granitoide Moromoro	Tr	M	Granitoide La Florida	Tr	Mf	
-Complejo	Granitoide Moromoro	Tr	M	Granodiorita MarcabelÌ	Tr	Mm	
+Complejo	Granitoide Moromoro	Tr	M	Granodiorita Marcabel√≠	Tr	Mm	
 Complejo	Intrusivo de Zamora	J	Z				
-Complejo	M·fico Piedras	Tr	P				
-Complejo 	PeÒas Blancas	PzTr	Pb				
-Complejo	OfiolÌtico Raspas	K	R				
-DivisiÛn	Melange Palenque	JK	P				
-Unidad 	AbaÒÌn	MPL	Ab				
-Unidad	Agoy·n (Loja)	Pz	La				
+Complejo	M√°fico Piedras	Tr	P				
+Complejo 	Pe√±as Blancas	PzTr	Pb				
+Complejo	Ofiol√≠tico Raspas	K	R				
+Divisi√≥n	Melange Palenque	JK	P				
+Unidad 	Aba√±√≠n	MPL	Ab				
+Unidad	Agoy√°n (Loja)	Pz	La				
 Unidad	Ahuaca	M	Ah				
 Unidad	Alao-Paute (Alao)	J	Aa				
 Unidad 	Altar Urcu	E	Au				
@@ -157,8 +156,8 @@ Unidad 	Amorgeo	MPL	A
 Unidad	Arenillas (Piedras)	Tr	Pa				
 Unidad	Arrayanes	E	Ar				
 Unidad	Ayapamba	OM	Ay				
-Unidad	AzabÌ	O?	Az				
-Unidad	Azafr·n (Salado)	J	Sa				
+Unidad	Azab√≠	O?	Az				
+Unidad	Azafr√°n (Salado)	J	Sa				
 Unidad	Bramaderos	K	Br				
 Unidad	Calera (Saraguro)	OM	Ca				
 Unidad	Cambugan	K	Cb				
@@ -175,7 +174,7 @@ Unidad	Cerro Hermoso (Salado)	J	Sh
 Unidad	Cerro Volador	EO	V				
 Unidad	Chaguarpamba	K	Ch				
 Unidad	Changaimina	Pc	Ch				
-Unidad	Chig¸inda (Loja)	Pz	Lc				
+Unidad	Chig√ºinda (Loja)	Pz	Lc				
 Unidad 	Chili Fruta	M	Cf				
 Unidad	Chilla	M	Ch				
 Unidad 	Chillacocha	MPL	Cc				
@@ -186,7 +185,7 @@ Unidad	Chulo (Saraguro)	E	Sc
 Unidad	Collapi	PcE	C				
 Unidad	Colorado	K	Co				
 Unidad 	Condorcaca	MPL?	Cc				
-Unidad	Cong¸ime	PL?	Cg				
+Unidad	Cong√ºime	PL?	Cg				
 Unidad	Corral Viejo (Saraguro)	O	Cv				
 Unidad	Culanga	PL	Cu				
 Unidad 	Cullo Pugro	M	Cp				
@@ -204,7 +203,7 @@ Unidad 	El Quingueado (Saraguro)	O	Eq
 Unidad 	El Tambo (Saraguro)	O	Et				
 Unidad	El Tigre (Tahuin)	Pz	Tt				
 Unidad	El Toro	K	Ot				
-Unidad 	FasaÒan	MPL	F				
+Unidad 	Fasa√±an	MPL	F				
 Unidad	Filo Cajas (Saraguro)	EO?	Sfc				
 Unidad 	Florida Alta	Pc	Fa				
 Unidad 	Gima  (Saraguro)	O	Gi				
@@ -220,7 +219,7 @@ Unidad	Huacapamba	Pz	Lh
 Unidad 	Huartiguro	MPL	Ht				
 Unidad	Huayco	M	Hy				
 Unidad	Huayrapungu	O	H				
-Unidad	HuiÒacay	MPL	HÒ				
+Unidad	Hui√±acay	MPL	H√±				
 Unidad	Iguinda	K	Ig				
 Unidad	Illaca	M	Il				
 Unidad	Infiernillo	PL	If				
@@ -237,7 +236,7 @@ Unidad	La Saquea (Misahualli)	J	Sa
 Unidad	La Victoria (Tahuin)	Pz	Tv				
 Unidad 	Las Nieves (Saraguro)	O	Ln				
 Unidad 	Ligcho	MPL	Lg				
-Unidad	LimÛn Playa	Tr	Ml				
+Unidad	Lim√≥n Playa	Tr	Ml				
 Unidad	Loma Bernabe	Pc	Lbe				
 Unidad 	Loma Las Muchicas	M	Llm				
 Unidad	Loma Palta	OM	Lp				
@@ -261,32 +260,32 @@ Unidad	Pachicutza	Tr	Pch
 Unidad	Pallatanga	K	Pa				
 Unidad	Pasa Loma	MPL	Pl				
 Unidad	Peltetec (Alao)	J	Ap				
-Unidad	PilatÛn	K	Pl				
+Unidad	Pilat√≥n	K	Pl				
 Unidad	Piuntza	Tr	Pz				
 Unidad	Plan del Oso	P_?	Po				
 Unidad	Portovelo (Saraguro)	OM	Pv				
 Unidad 	Primavera	OM	Pr				
 Unidad 	Pucapamba	M	Pu				
-Unidad	PucarÛn	J?	Pc				
-Unidad	PujilÌ	K	Pj				
-Unidad	PunÌn (Guamote)	J	Gp				
+Unidad	Pucar√≥n	J?	Pc				
+Unidad	Pujil√≠	K	Pj				
+Unidad	Pun√≠n (Guamote)	J	Gp				
 Unidad	Punta de Piedra	K	Pp				
-Unidad	PuÒay (Saraguro)	OM?	SpÒ				
+Unidad	Pu√±ay (Saraguro)	OM?	Sp√±				
 Unidad 	Purin	M	Pr				
-Unidad	Quebrada El Volc·n	Tr?	Qv				
+Unidad	Quebrada El Volc√°n	Tr?	Qv				
 Unidad	Quebrada Plata (Piedras)	Tr	Pp				
 Unidad 	Quebrada Tasqui 	M	Qt				
 Unidad	Quera Chico (Moromoro)	Tr	Mq				
 Unidad	Quilanga	PL	Ql				
 Unidad 	Quilloloma 	M	Q				
 Unidad 	Retama (Saraguro)	OM	R				
-Unidad	RÌo Cala	K	Rc				
-Unidad	RÌo Desgracia	K	Rd				
-Unidad 	RÌo FrÌo	K	Rf				
-Unidad	RÌo Guayacu	Pc	Rg				
-Unidad 	RÌo OÒa (Saraguro)	O	Ro				
-Unidad	RÌo Panupali (Raspas)	K	Op				
-Unidad 	RÌo Sinincapa (Saraguro)	O	Rs				
+Unidad	R√≠o Cala	K	Rc				
+Unidad	R√≠o Desgracia	K	Rd				
+Unidad 	R√≠o Fr√≠o	K	Rf				
+Unidad	R√≠o Guayacu	Pc	Rg				
+Unidad 	R√≠o O√±a (Saraguro)	O	Ro				
+Unidad	R√≠o Panupali (Raspas)	K	Op				
+Unidad 	R√≠o Sinincapa (Saraguro)	O	Rs				
 Unidad	Rumipamba	M	Ru				
 Unidad	Sabanilla (Loja)	Tr	Ls				
 Unidad	Sacapalca	E?	Sa				
@@ -294,8 +293,8 @@ Unidad	San Juan	K	Sj
 Unidad	San Juan de Lachas	OM	Sjl				
 Unidad 	San Miguel de Naranjal	E	Sn				
 Unidad	San Vicente	Pc	Sv				
-Unidad	SaquisilÌ	Pc	S				
-Unidad	SarihuiÒa	MPL	SÒ				
+Unidad	Saquisil√≠	Pc	S				
+Unidad	Sarihui√±a	MPL	S√±				
 Unidad	Sayo Cruz	M	Sac				
 Unidad	Shaime	K	Sh				
 Unidad 	Shincata	PLPl	Sh				
@@ -318,51 +317,51 @@ Unidad	Upano (Salado)	J	Su
 Unidad 	Urdaneta (Saraguro)	O	U				
 Unidad	Uritusinga	EO	Ur				
 Unidad	Yacuambi (Misahualli)	J	Ya				
-Unidad	YacuviÒa	M	Yv				
+Unidad	Yacuvi√±a	M	Yv				
 Unidad	Yapi	J	Y				
-Unidad 	YariguiÒa (Saraguro)	OM	Yg				
+Unidad 	Yarigui√±a (Saraguro)	OM	Yg				
 Unidad	Yunga (Saraguro)	O	Y				
-Volc·nicos	Cascajal 	MPL	Cs				
-Volc·nicos	Cerro Negro	Pl	Cn				
-Volc·nicos	ChiltazÛn	PLPl	Cz				
-Volc·nicos	ChutÌn	M?	C				
-Volc·nicos	El Chispo 	MPL	Ech				
-Volc·nicos	El Moran	MPL	Em				
-Volc·nicos	Golondrinas	PL	G				
-Volc·nicos	Huasi Chimba 	MPL	Hc				
-Volc·nicos	Litapungo	MPL	Lt				
-Volc·nicos	Monte Verde 	MPL	Mv				
-Volc·nicos	Otavalo	MPL	O				
-Volc·nicos	Parambas	MPL	Pa				
-Volc·nicos	Quebrada CalderÛn 	O	Qc				
-Volc·nicos	Quillopamba	MPL	Q				
-Volc·nicos	Rosa de Oro	M	Ro				
-Volc·nicos	Sanora	Pc	Sa				
-Volc·nicos	Tambo Blanco (Saraguro)	OM?	Tb				
-Volc·nicos	Tambor 	PL	T				
-Volc·nicos 	Cotacachi	TA	Cot				
-Volc·nicos 	Cotacachi	AA	Cot				
-Volc·nicos 	Cuicocha	TD	Cui				
-Volc·nicos 	Cuicocha	AA	Cui				
-Volc·nicos 	Cuicocha	RD	Cui				
-Volc·nicos 	Cushnirumi	TD	Csh				
-Volc·nicos 	Cushnirumi	TA	Csh				
-Volc·nicos 	Cushnirumi	RD	Csh				
-Volc·nicos 	Cushnirumi	AA	Csh				
-Volc·nicos 	Imbabura	Avl	Imb				
-Volc·nicos 	Imbabura	TA	Imb				
-Volc·nicos 	Mojanda-Fuya fuya	Avl	Moj				
-Volc·nicos 	Mojanda-Fuya fuya	TA	Moj				
-Volc·nicos 	Mojanda-Fuya fuya	AA	Moj				
-Volc·nicos	—agÒaro	AA	—a				
-Volc·nicos	Parulo	AA	Pr				
-Volc·nicos	PichavÌ	AA	Pch				
-Volc·nicos	Pilabo	AA	Pil				
-Volc·nicos	Tumbat˙	TRd 	Tu				
-Volc·nicos	Yanaurcu	AA	Ya				
+Volc√°nicos	Cascajal 	MPL	Cs				
+Volc√°nicos	Cerro Negro	Pl	Cn				
+Volc√°nicos	Chiltaz√≥n	PLPl	Cz				
+Volc√°nicos	Chut√≠n	M?	C				
+Volc√°nicos	El Chispo 	MPL	Ech				
+Volc√°nicos	El Moran	MPL	Em				
+Volc√°nicos	Golondrinas	PL	G				
+Volc√°nicos	Huasi Chimba 	MPL	Hc				
+Volc√°nicos	Litapungo	MPL	Lt				
+Volc√°nicos	Monte Verde 	MPL	Mv				
+Volc√°nicos	Otavalo	MPL	O				
+Volc√°nicos	Parambas	MPL	Pa				
+Volc√°nicos	Quebrada Calder√≥n 	O	Qc				
+Volc√°nicos	Quillopamba	MPL	Q				
+Volc√°nicos	Rosa de Oro	M	Ro				
+Volc√°nicos	Sanora	Pc	Sa				
+Volc√°nicos	Tambo Blanco (Saraguro)	OM?	Tb				
+Volc√°nicos	Tambor 	PL	T				
+Volc√°nicos 	Cotacachi	TA	Cot				
+Volc√°nicos 	Cotacachi	AA	Cot				
+Volc√°nicos 	Cuicocha	TD	Cui				
+Volc√°nicos 	Cuicocha	AA	Cui				
+Volc√°nicos 	Cuicocha	RD	Cui				
+Volc√°nicos 	Cushnirumi	TD	Csh				
+Volc√°nicos 	Cushnirumi	TA	Csh				
+Volc√°nicos 	Cushnirumi	RD	Csh				
+Volc√°nicos 	Cushnirumi	AA	Csh				
+Volc√°nicos 	Imbabura	Avl	Imb				
+Volc√°nicos 	Imbabura	TA	Imb				
+Volc√°nicos 	Mojanda-Fuya fuya	Avl	Moj				
+Volc√°nicos 	Mojanda-Fuya fuya	TA	Moj				
+Volc√°nicos 	Mojanda-Fuya fuya	AA	Moj				
+Volc√°nicos	√ëag√±aro	AA	√ëa				
+Volc√°nicos	Parulo	AA	Pr				
+Volc√°nicos	Pichav√≠	AA	Pch				
+Volc√°nicos	Pilabo	AA	Pil				
+Volc√°nicos	Tumbat√∫	TRd 	Tu				
+Volc√°nicos	Yanaurcu	AA	Ya				
 	Cuarzodiorita Uzhar	O?	Uz				
 	Diorita El Descanso	O	Ed				
-	Granodiorita Azafr·n	J	Saz				
+	Granodiorita Azafr√°n	J	Saz				
 	Granitoide Portachuela	M	Po				
 	Granodiorita Tangula	K	Ta				
 	Ofiolita Zumba	Tr	Z				
