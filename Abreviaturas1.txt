@@ -1,4 +1,3 @@
-Abreviatura	Unidad cronoestatigráfica / geocronológica
 P_	Proterozoico
 Pz	Paleozoico
-Tr	Triásico
+Tr	TriÃ¡sico
