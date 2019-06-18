@@ -223,7 +223,7 @@ Unidad	Huiñacay	MPL	Hñ
 Unidad	Iguinda	K	Ig				
 Unidad	Illaca	M	Il				
 Unidad	Infiernillo	PL	If				
-Unidad 	Irunuma	K	Ir				
+Unidad 	Irunuma	J	Ir				
 Unidad	Isimanchi	Pz	I				
 Unidad 	Jalincapac	M	Jc				
 Unidad	La Bocana (Moromoro)	Tr	Mb				
