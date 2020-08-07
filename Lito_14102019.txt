@@ -19,12 +19,12 @@ Grupo	Saraguro	EM	S	Formación	 Chanlud	O	Scd
 Grupo	Saraguro	EM	S	Formación	 Las Trancas	E	St
 Grupo	Saraguro	EM	S	Formación	 Ocaña	E	So
 Grupo	 Tahuín	Pz	T				
-Grupo	Zapotillo	K	Z	Formación	Chaquino	K	Ch
+Grupo	Zapotillo	K	Z	Formación	Chaquino	K	Chq
 Grupo	Zapotillo	K	Z	Formación	Mangahurco	K	Mg
 Grupo	Zapotillo	K	Z	Formación	Tronco Quemado	K	Tq
 Grupo	 Zumbagua	M	Z				
 Formación	Abanico	Pz?	A				
-Formación	Alausí	MPL	A				
+Formación	Alausí	MPL	Al				
 Formación	Ambuquí (Guamote)	J	Ga				
 Formación	Angostura	M	Ag				
 Formación	Apagua	PcE	A				
@@ -37,7 +37,7 @@ Formación	Balzar	PL	B
 Formación 	Belén	M	Be				
 Formación	Biblian	M	B				
 Formación	Borbón	MPL	Bb				
-Formación	Cangagua	Q	C				
+Formación	Cangagua	Q	Cg				
 Formación	Canaveral	K	Cv				
 Formación	Catamayo	M	Ca				
 Formación	Cayo	K	Cy				
@@ -55,7 +55,7 @@ Formación	Chota	PL	Ch
 Formación	Ciano	K	Cn				
 Formación	Cisarán	M	Cn				
 Formación	Dos Bocas	OM	Db				
-Formación	El Consuelo	M	Ec				
+Formación	El Consuelo	M	Eco				
 Formación	Gallo Rumi	PcE	Gr				
 Formación	Gonzanamá	M	Gz				
 Formación	Guayaquil	KPc	Gy				
@@ -157,7 +157,6 @@ Unidad	Arenillas (Piedras)	Tr	Pa
 Unidad	Arrayanes	E	Ar				
 Unidad	Ayapamba	OM	Ay				
 Unidad	Azabí	O?	Az				
-Unidad	Azafrán (Salado)	J	Sa				
 Unidad	Bramaderos	K	Br				
 Unidad	Calera (Saraguro)	OM	Ca				
 Unidad	Cambugan	K	Cb				
@@ -188,7 +187,7 @@ Unidad 	Condorcaca	MPL?	Cc
 Unidad	Congüime	PL?	Cg				
 Unidad	Corral Viejo (Saraguro)	O	Cv				
 Unidad	Culanga	PL	Cu				
-Unidad 	Cullo Pugro	M	Cp				
+Unidad 	Cullo Pugro	M	Cpg				
 Unidad	Cuyuja (Salado)	J	Sc				
 Unidad 	Del Duco (Saraguro)	O	D				
 Unidad 	El Aromo	E	Ea				
@@ -334,7 +333,7 @@ Volcánicos	Monte Verde 	MPL	Mv
 Volcánicos	Otavalo	MPL	O				
 Volcánicos	Parambas	MPL	Pa				
 Volcánicos	Quebrada Calderón 	O	Qc				
-Volcánicos	Quillopamba	MPL	Q				
+Volcánicos	Quillopamba	MPL	Qu				
 Volcánicos	Rosa de Oro	M	Ro				
 Volcánicos	Sanora	Pc	Sa				
 Volcánicos	Tambo Blanco (Saraguro)	OM?	Tb				
@@ -361,7 +360,7 @@ Volcánicos	Tumbatú	TRd 	Tu
 Volcánicos	Yanaurcu	AA	Ya				
 	Cuarzodiorita Uzhar	O?	Uz				
 	Diorita El Descanso	O	Ed				
-	Granodiorita Azafrán	J	Saz				
-	Granitoide Portachuela	M	Po				
+	Granodiorita Azafrán (Salado)	J	Saz				
+	Complejo Intrusivo Portachuela	M	Po				
 	Granodiorita Tangula	K	Ta				
 	Ofiolita Zumba	Tr	Z				
